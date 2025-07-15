@@ -1,4 +1,4 @@
-print("hello x")
-print("happy morning to all here")
+print("hello everyone")
+print("happy morning")
 print("whats the new thing")
 print("whats new todat")
